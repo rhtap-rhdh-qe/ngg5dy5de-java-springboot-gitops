@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ngg5dy5de-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ngg5dy5de-java-springboot-gitops
